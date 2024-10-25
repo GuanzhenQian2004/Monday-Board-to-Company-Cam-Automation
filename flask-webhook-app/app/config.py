@@ -1,0 +1,6 @@
+import os
+
+MONDAY_API_TOKEN = os.getenv("MONDAY_API_TOKEN")
+COMPANY_CAM_API_TOKEN = os.getenv("COMPANY_CAM_API_TOKEN")
+BOARD_ID = os.getenv("BOARD_ID")
+GROUP_NAME = os.getenv("GROUP_NAME")
